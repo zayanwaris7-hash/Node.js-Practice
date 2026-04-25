@@ -1,0 +1,10 @@
+# OS generated files
+
+# Environment variables (Sensitive!)
+
+# Dependencies
+node_modules/
+
+
+# Build outputs
+dist/
